@@ -4,7 +4,7 @@
  
 <div>
 <a href="https://github.com/stefaniecristinie"><img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"><img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"><img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a>
-<img height="200cm" align="right" src="https://github.com/stefaniecristinie/stefaniecristinie/blob/main/6m7kug.gif">
+<img height="150cm" align="right" src="https://github.com/stefaniecristinie/stefaniecristinie/blob/main/6m7kug.gif">
 </div>
 
 
