@@ -5,6 +5,7 @@
 <div>
 <a href="https://github.com/stefaniecristinie"><img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"><img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"><img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a>
 </div>
+<img height="100cm" align="right" src="C:\Users\stecr\Downloads\6m7kug.gif">
 
 ##
 
