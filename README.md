@@ -15,4 +15,4 @@
 <a href="https://www.linkedin.com/in/stefaniecristinieti"><img height="30cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/stefaniecristinie/stefaniecristinie/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/stefaniecristinie/stefaniecristinie/blob/output/github-contribution-grid-snake.svg)](https://github.com/stefaniecristinie)
