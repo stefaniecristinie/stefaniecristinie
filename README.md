@@ -1,4 +1,4 @@
-### Olá, eu sou Stefanie Cristinie, Estagiário de TI | Estagiário de Desenvolvimento de Software! 👋
+### Olá, meu nome é Stefanie Cristinie, sou estudante de Análise e Desenvolvimento de Sistemas! 👋
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniecristinie&layout=compact&theme=radical)](https://github.com/stefaniecristinie)
