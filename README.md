@@ -1,4 +1,4 @@
-### Olá, meu nome é Stefanie Cristinie, sou estudante de Análise e Desenvolvimento de Sistemas! 👋
+### Olá, meu nome é Stefanie Cristinie, sou estudante na área de Tecnologia da Informação (TI) - 3º Semestre 👋
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniecristinie&layout=compact&theme=radical)](https://github.com/stefaniecristinie)
